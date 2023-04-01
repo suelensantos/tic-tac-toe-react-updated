@@ -1,8 +1,8 @@
-Projeto Tic-Tac-Toe
+Tic-Tac-Toe Project
 -----------------------
 
-#### Proveniente do Tutorial React (nova documentação 2023)
-- [Site Tutorial React EN](https://react.dev/learn/tutorial-tic-tac-toe)
+#### Originating from the React Tutorial (new documentation 2023)
+- [Site React Tutorial EN](https://react.dev/learn/tutorial-tic-tac-toe)
 
 #### To run locally:
 
