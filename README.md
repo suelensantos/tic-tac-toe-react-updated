@@ -7,5 +7,7 @@ Tic-Tac-Toe Project
 #### To run locally:
 
 ```
+> npm run start
+or
 > npm start
 ```
